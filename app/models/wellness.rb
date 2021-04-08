@@ -1,0 +1,2 @@
+class Wellness < ApplicationRecord
+end
